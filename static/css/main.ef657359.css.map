@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.ef657359.css","mappings":"AAAA,WAIE,YAAa,CAFb,QAAS,CACT,SAAU,CAEV,WACF,CAEA,KACE,eACF","sources":["style.css"],"sourcesContent":["body,\n#root {\n  margin: 0;\n  padding: 0;\n  height: 100vh;\n  width: 100vw;\n}\n\nbody {\n  background: white;\n}\n"],"names":[],"sourceRoot":""}
