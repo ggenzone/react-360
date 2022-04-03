@@ -1,4 +1,7 @@
 {
+  "homepage": "https://ggenzone.github.io/react-xr/",
+  "name": "react-xr",
+  "description": "Example using XR.",
   "react-scripts": "4.0.3",
   "scripts": {
     "start": "react-scripts start",
@@ -20,8 +23,6 @@
     "re-use",
     "gltf"
   ],
-  "name": "re-using-gltfs",
-  "description": "When you use GLTFJSX it creates a immutable snapshot of your assets, these can be reused.",
   "browserslist": {
     "production": [
       ">0.2%",
