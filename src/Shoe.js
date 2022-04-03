@@ -4,7 +4,7 @@ import * as THREE from 'three'
 import { useGLTF } from '@react-three/drei'
 
 export default function Shoe({ color, ...props }) {
-  const { nodes, materials } = useGLTF('react-xr/shoe.gltf')
+  const { nodes, materials } = useGLTF('shoe.gltf')
   // The following is a read-out of the models contents, all of its
   // meshes, groups and so on.
   return (
@@ -33,4 +33,4 @@ export default function Shoe({ color, ...props }) {
   )
 }
 
-useGLTF.preload('/shoe.gltf')
+useGLTF.preload('shoe.gltf')
